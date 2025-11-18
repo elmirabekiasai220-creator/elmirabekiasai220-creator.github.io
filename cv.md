@@ -26,6 +26,6 @@ comments: false
 
 
 
-![Painting](https://maysagharehgozli.github.io/assets/images/programming_on_screen.jpg)
+![Painting](/assets/images/programming_on_screen.jpg)
 
 
