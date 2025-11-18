@@ -9,32 +9,23 @@ comments: false
 ---
 
 
-# ekhteshash
+# درباره من
 
-werwe
-rwe
+من المیرا بکیاسای متولد 1385، در حال حاضر دانشجوی مقطع کارشناسی در دانشگاه علم و صنعت ایران و در رشته ی مهندسی کامپیوتر مشغول به تحصیل هستم. 
 
-## Tehran
-lsdfksd
+## محل سکونت
+تهران
 
-### Azadi
-### Enghelab
+### سوابق تحصیلی
 
-- mored 1
-- mored 2
-
-My favorite website is [yahoo](http://www.yahoo.com).
+- دیپلم در رشته ی ریاضی
+- مشغول به تحصیل در مقطع کارشناسی
 
 
-## Esfahan
-ldkfjs
+
+
+
 
 ![Painting](https://maysagharehgozli.github.io/assets/images/photo.jpg)
 
 
-<iframe width="1691" height="680" src="https://www.youtube.com/embed/LOTtWzX3Wp4" title="The STRANGE Reason He's The World's Best Climber" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-|  Number | Name |
-|---------|------|
-|1        | Ali  |
