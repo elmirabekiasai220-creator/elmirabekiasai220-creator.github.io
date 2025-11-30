@@ -337,4 +337,3 @@ for _ in range(200):
 turtle.update()
 turtle.mainloop()
 </pre>
-# this is a header
