@@ -66,6 +66,10 @@ for i in range(256):
 plt.imshow(img, cmap=plt.cm.colors.ListedColormap(colors))
 ```
 
+<br>
+![mbs1](../assets/images/mbs1.png "mbs1")
+<br>
+
 **Changes:**
 - Added `hsv_to_rgb` function for color conversion
 - Created a custom color palette with purple-blue spectrum
@@ -78,6 +82,9 @@ v = (py - H/2) / (H/2.5)
 x = u * 0.707 - v * 0.707  # cos(45) = sin(45) ≈ 0.707
 y = u * 0.707 + v * 0.707
 ```
+<br>
+![mbs2](../assets/images/mbs0.png "mbs2")
+<br>
 
 **Changes:**
 - Changed coordinate system for 45-degree rotation
@@ -157,6 +164,24 @@ int get_julia_iter(double zr, double zi, double cr, double ci, int max_iter)
 }
 ```
 **Difference from Mandelbrot:** In the Julia set, `c` is constant and `z` is the starting variable. This creates different patterns.
+
+### Discoveries in Fractal Zoom
+One of the most fascinating aspects of animation production is observing the infinitely complex patterns that emerge during deep zoom sequences. As we magnify into specific regions of the Mandelbrot and Julia sets, remarkable structures reveal themselves:
+
+The famous "Seahorse Valley" appears near the bulbous regions of the main cardioid, where swirling patterns resembling seahorse tails unfold with increasing detail.
+
+Miniature Mandelbrot sets are found at various scales - perfect replicas of the main set, each containing endless smaller copies of themselves.
+
+Julia sets display striking transformations during parameter changes, transitioning from connected lace-like structures to disconnected dust-like patterns.
+
+The zoom sequences also reveal logarithmic spirals, tree-like structures, and intricate patterns that follow mathematical principles while appearing completely organic. These discoveries highlight the fundamental beauty of mathematical visualization.
+
+<br>
+![mbs3](../assets/images/mbs3.png "mbs3")
+<br>
+<br>
+![mbs4](../assets/images/mbs4.png "mbs4")
+<br>
 
 **Color Conversion Function:**
 ```c
@@ -272,6 +297,9 @@ void JuliaChange(ImageState *state, double t_cr, double t_ci, int steps)
     }
 }
 ```
+<br>
+![mbs6](../assets/images/mbs6.png "mbs6")
+<br>
 
 **Dynamic Color Shift:**
 ```c
@@ -321,6 +349,9 @@ void Zoom_TopRotate(ImageState *state, double zoom, double angle, int steps)
     state->top_rotation = 0;  // Disable special mode
 }
 ```
+<br>
+![mbs5](../assets/images/mbs5.png "mbs5")
+<br>
 
 ## Part 3: Music with Sonic Pi
 
