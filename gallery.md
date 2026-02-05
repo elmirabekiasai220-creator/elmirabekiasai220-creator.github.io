@@ -11,8 +11,8 @@ gallery:
     image_path: /assets/images/maths.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: /assets/images/2.jpg
-    image_path: /assets/images/2.jpg
+  - url: /assets/images/jungle.png
+    image_path: /assets/images/jungle.png
     alt: "placeholder image 2"
     title: "Image 2 title caption"
   - url: /assets/images/3.jpg
