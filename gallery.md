@@ -33,3 +33,4 @@ gallery:
     title: "Image 6 title caption"    
 ---
 
+{% include gallery id="gallery" %}

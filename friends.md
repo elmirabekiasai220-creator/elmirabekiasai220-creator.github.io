@@ -2,16 +2,16 @@
 layout: single
 author_profile: true
 permalink: /friends/
-title: My friends around the world
+title: My friends
 tags: [friends]
 modified: 4-10-2019
 comments: true
 ---
 
-### همکلاسی‌ها
-* [ریحان شعبانی](http://ReyhanShabani.github.io)
-* فاطمه عباسی
-* شبنم صفاری
+### Classmates
+* [Reyhan Shabani ](http://ReyhanShabani.github.io)
+* Fatemeh Abbasi 
+* Shabnam Saffari 
 
 
 
