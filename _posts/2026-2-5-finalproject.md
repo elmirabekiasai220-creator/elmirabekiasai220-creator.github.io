@@ -36,6 +36,9 @@ plt.imshow(img, cmap='hsv')
 plt.axis("off")
 plt.show()
 ```
+<br>
+![mbs0](../assets/images/mbs0.png "mbs0")
+<br>
 
 **Explanation:**
 - `W, H, I = 600, 400, 100`: Defining width, height, and maximum iterations
