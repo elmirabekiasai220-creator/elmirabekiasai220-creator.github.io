@@ -2,25 +2,24 @@
 layout: single
 author_profile: true
 permalink: /cv/
-title: رزومه
+title: Resume
 tags: [resume, cv]
 modified: 4-14-2019
 comments: false
 ---
 
 
-# درباره من
+# About me
 
-من المیرا بکیاسای متولد 1385، در حال حاضر دانشجوی مقطع کارشناسی در دانشگاه علم و صنعت ایران و در رشته ی مهندسی کامپیوتر مشغول به تحصیل هستم. 
+I am Elmira Bekiasay, born in 2007. I am currently a bachelor's student at Iran University of Science and Technology, studying computer engineering.
 
-## محل سکونت
-تهران
+## Place of residence
+Tehran
 
-### سوابق تحصیلی
+### Educational background
 
-- دیپلم در رشته ی ریاضی
-- مشغول به تحصیل در مقطع کارشناسی
-
+- High school diploma in Mathematics    
+- Currently studying at the bachelor’s degree level
 
 
 
