@@ -83,7 +83,7 @@ x = u * 0.707 - v * 0.707  # cos(45) = sin(45) ≈ 0.707
 y = u * 0.707 + v * 0.707
 ```
 <br>
-![mbs2](../assets/images/mbs0.png "mbs2")
+![mbs2](../assets/images/mbs2.png "mbs2")
 <br>
 
 **Changes:**
