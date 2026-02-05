@@ -11,7 +11,7 @@ comments: false
 
 # About me
 
-I am Elmira Bekiasay, born in 2007. I am currently a bachelor's student at Iran University of Science and Technology, studying computer engineering.
+I am Elmira Bekiasai, born in 2007. I am currently a bachelor's student at Iran University of Science and Technology, studying computer engineering.
 
 ## Place of residence
 Tehran
